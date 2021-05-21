@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Curriculum Vitae - William Thomas Clarke
 
-You can use the [editor on GitHub](https://github.com/wexeee/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Wellcome Centre for Integrative Neuroimaging
+Nuffield Department of Clinical Neurosciences
+University of Oxford
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+FMRIB Centre, John Radcliffe Hospital
+Oxford, UK, OX3 9DU
++44(0) 1865 610475 
 
-### Markdown
+william.clarke@ndcn.ox.ac.uk
+win.ox.ac.uk/people/william-clarke
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work & Education
+### Academic Positions
 
-```markdown
-Syntax highlighted code block
+<table>
+  <tr>
+   <td>2018 - 
+   </td>
+   <td><strong>MRS Physicist</strong><br>Nuffield Department of Clinical Neurosciences, University of Oxford
+   </td>
+  </tr>
+  <tr>
+   <td>2016 - 18
+   </td>
+   <td><strong>Post-Doctoral Researcher</strong><br>Nuffield Department of Clinical Neurosciences, University of Oxford
+   </td>
+  </tr>
+  <tr>
+   <td>2016 - 16
+   </td>
+   <td><strong>Post-Doctoral Researcher</strong><br>Oxford Centre for Clinical Magnetic Resonance Research, University of Oxford
+   </td>
+  </tr>
+</table>
 
-# Header 1
-## Header 2
-### Header 3
+### Education
+<table>
+  <tr>
+   <td>2012 - 2016
+   </td>
+   <td><strong>D.Phil,</strong>
+   Cardiovascular Medicine, University of Oxford<br>
+   Thesis:  Human Cardiac Magnetic Resonance Spectroscopy<br>
+   Supervisors:  Christopher Rodgers, Matthew Robson
+   </td>
+  </tr>
+  <tr>
+   <td>2008 - 12
+   </td>
+   <td><strong>MChem,</strong> Chemistry, University of Oxford<br>1<sup>st</sup> Class
+   </td>
+  </tr>
+</table>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wexeee/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Grants & Awards
+### Grants
