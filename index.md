@@ -2,7 +2,7 @@
 
 _This page is a work in progress, check back soon for more content._
 
-Welcome to the website of the FMRIB Magnetic Resonance Spectroscopy group. We're based in the Wellcome Centre for Integrative Neuroimaging (WIN), at the University of Oxford.
+Welcome to the website of the FMRIB Magnetic Resonance Spectroscopy Group. We're based in the Wellcome Centre for Integrative Neuroimaging (WIN), at the University of Oxford.
 
 We are primarily interested in developing acquisition and analysis tools for multi-region spectroscopy (MRSI) of dynamic processes in the human brain.
 
@@ -19,7 +19,7 @@ A major output of the lab is its software, much of it centred around [FSL](https
 - MRS Denoising Tools - [documentation](https://git.fmrib.ox.ac.uk/wclarke/low-rank-denoising-tools) - [development](https://git.fmrib.ox.ac.uk/wclarke/low-rank-denoising-tools) - [publication](https://doi.org/10.1002/mrm.29018)
 
 
-To get to grips with FSL-MRS why not take a look at the spectreoscopy component of the [FSL Course](https://open.win.ox.ac.uk/pages/fslcourse/website/index.html) or even attend this years course?
+To get to grips with FSL-MRS why not take a look at the spectreoscopy component of the [FSL Course](https://open.win.ox.ac.uk/pages/fslcourse/website/index.html) or even attend this year's course?
 
 All tools are available to install through the _conda_ package manager.
 
