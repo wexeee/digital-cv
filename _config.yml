@@ -1,10 +1,10 @@
 theme: jekyll-remote-theme
 remote_theme: BDHU/minimalist
-title: FMRIB MRS Group
+title: FMRIB\nMRS\nGroup
 blank_title: true
-description: Website for the FMRIB MR Spectroscopy Group, University of Oxford
+description: ""
 logo: /assets/img/fsleyes.png
-email: william.clarke@ndcn.ox.ac.uk
+email: william.clarke\n@ndcn.ox.ac.uk
 show_downloads: false
 color-scheme: auto
 
