@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-remote-theme
+remote_theme: BDHU/minimalist
 title: FMRIB MR Spectroscopy Group
 description: Website for the FMRIB MR Spectrsocopy Group, University of Oxford
 logo: /assets/img/fsleyes.png
