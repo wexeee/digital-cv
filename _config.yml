@@ -1,10 +1,10 @@
 theme: jekyll-remote-theme
 remote_theme: BDHU/minimalist
-title: FMRIB\nMRS\nGroup
+title: "FMRIB\nMRS\nGroup"
 blank_title: true
 description: ""
 logo: /assets/img/fsleyes.png
-email: william.clarke\n@ndcn.ox.ac.uk
+email: "william.clarke\n@ndcn.ox.ac.uk"
 show_downloads: false
 color-scheme: auto
 
